@@ -4,12 +4,12 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-> A multi-microservice restaurant application built with Java Spring Boot, Node.js, and Python Flask with a modern React frontend.
+> A multi-microservice cafe application built with Java Spring Boot, Node.js, and Python Flask with a modern React frontend.
 
 ---
 
 ## 🚀 Project Overview
-**Bite & Brew** is a full-stack restaurant web app with a microservices architecture. Customers can register, browse the menu, add items to the cart, place orders, and provide feedback. Admins can manage the menu users.
+**Bite & Brew** is a full-stack cafe web app with a microservices architecture. Customers can register, browse the menu, add items to the cart, place orders, and provide feedback. Admins can manage the menu users.
 
 ---
 
@@ -19,7 +19,7 @@
 |------------------------|------------------------------------|------------|-------|
 | Product Service        | Spring Boot (Java 21)              | H2         | 8081  |
 | Feedback Service       | Python Flask                       | SQLite     | 7004  |
-| Customer+ order Service| Node.js + Express.js + JWT Auth    | MongoDB    | 5000  |
+| Customer & order Service| Node.js + Express.js + JWT Auth    | MongoDB    | 5000  |
 | Eureka Server          | Spring Boot                        | -          | 8761  |
 | Frontend               | React + Bootstrap + CSS Animations | -          | 3000  |
 
@@ -105,7 +105,7 @@ npm start
 
 ## 🧑‍💻 How It Works
 1. Customer signs up and logs in (JWT).
-2. Browses products from Product Service.
+2. Browse products from Product Service.
 3. Adds items to cart and places orders via Order Service.
 4. Leaves feedback on orders via Feedback Service.
 5. Admin can manage menu and users from frontend/admin panel.
@@ -630,7 +630,7 @@ MIT License
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/maheshwar04/bite-brew-restaurant-app
+https://github.com/andrea13042003/bite-and-brew-cafe-app
 
 ## 🔗 Additional
 Each service has its own detailed README.md inside its directory. Please refer to those for specific installation and API usage instructions per microservice.
