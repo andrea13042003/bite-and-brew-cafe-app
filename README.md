@@ -64,8 +64,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/maheshwar04/bite-brew-restaurant-app.git
-cd bite-brew-restaurant-app
+git clone https://github.com/andrea13042003/bite-and-brew-cafe-app.git
+cd bite-and-brew-cafe-app
 ```
 
 2. **Eureka Server**
