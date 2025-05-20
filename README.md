@@ -1,5 +1,5 @@
 
-# Bite & Brew Restaurant App
+# Bites & Brew Cafe App
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Project Overview
-**Bite & Brew** is a full-stack cafe web app with a microservices architecture. Customers can register, browse the menu, add items to the cart, place orders, and provide feedback. Admins can manage the menu users.
+**Bites & Brew** is a full-stack cafe web app with a microservices architecture. Customers can register, browse the menu, add items to the cart, place orders, and provide feedback. Admins can manage the menu users.
 
 ---
 
