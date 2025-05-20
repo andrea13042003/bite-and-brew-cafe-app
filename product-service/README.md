@@ -1,8 +1,8 @@
 
 ---
-# 🛍️ Bite & Brew Product Service
+# 🛍️ Bites & Brew Product Service
 
-This is the **Product Service** for the **Bite & Brew** platform, built using **Spring Boot**. It manages product-related operations such as creation, retrieval, updating, deletion, and filtering based on `ProductType` and `price`.
+This is the **Product Service** for the **Bites & Brew** platform, built using **Spring Boot**. It manages product-related operations such as creation, retrieval, updating, deletion, and filtering based on `ProductType` and `price`.
 
 ---
 
