@@ -2,7 +2,7 @@
 
 ## ☕ Bites & Brew - Frontend
 
-Bites & Brew Frontend is the React-based user interface for the full-stack café management application. It allows users to register, log in, view products, and interact with the app's backend via a sleek, user-friendly UI. It communicates with the backend API to handle authentication, registration, product display, and order history.
+Bites & Brew Frontend is the React-based user interface for the full-stack cafe management application. It allows users to register, log in, view products, and interact with the app's backend via a sleek, user-friendly UI. It communicates with the backend API to handle authentication, registration, product display, and order history.
 
 ---
 
