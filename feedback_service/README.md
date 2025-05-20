@@ -1,8 +1,8 @@
 ---
 
-# 💬 BiteBrew Feedback Service
+# 💬 Bites & Brew Feedback Service
 
-This is the **Feedback Service** for the **BiteBrew** platform, built with **Flask**. It allows customers to submit feedback for products and enables retrieval of feedback for specific products. It supports CORS, service discovery via Eureka, and automatic API documentation via Swagger.
+This is the **Feedback Service** for the **Bites & Brew** platform, built with **Flask**. It allows customers to submit feedback for products and enables retrieval of feedback for specific products. It supports CORS, service discovery via Eureka, and automatic API documentation via Swagger.
 
 ---
 
@@ -53,7 +53,7 @@ feedback-service/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/feedback-service.git
+git clone https://github.com/yourusername/bite-and-brew-cafe-app/feedback-service.git
 cd feedback-service
 ````
 
