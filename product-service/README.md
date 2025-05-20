@@ -1,8 +1,8 @@
 
 ---
-# 🛍️ BiteBrew Product Service
+# 🛍️ Bite & Brew Product Service
 
-This is the **Product Service** for the **BiteBrew** platform, built using **Spring Boot**. It manages product-related operations such as creation, retrieval, updating, deletion, and filtering based on `ProductType` and `price`.
+This is the **Product Service** for the **Bite & Brew** platform, built using **Spring Boot**. It manages product-related operations such as creation, retrieval, updating, deletion, and filtering based on `ProductType` and `price`.
 
 ---
 
@@ -43,7 +43,7 @@ This is the **Product Service** for the **BiteBrew** platform, built using **Spr
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/bitebrew-product-service.git
+git clone https://github.com/yourusername/bite-and-brew-cafe-app/product-service.git
 cd bitebrew-product-service
 ````
 
