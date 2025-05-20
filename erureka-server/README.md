@@ -1,8 +1,8 @@
 ---
 
-# 🌐 BiteBrew Eureka Server
+# 🌐 Bites & Brew Eureka Server
 
-This is the **Service Discovery Server** for the **BiteBrew** microservices architecture. It uses **Netflix Eureka** (via Spring Cloud) to allow microservices such as Product Service, Feedback Service, and others to register themselves and discover each other dynamically.
+This is the **Service Discovery Server** for the **Bites & Brew** microservices architecture. It uses **Netflix Eureka** (via Spring Cloud) to allow microservices such as Product Service, Feedback Service, and others to register themselves and discover each other dynamically.
 
 ---
 
@@ -52,7 +52,7 @@ erureka-server/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/erureka-server.git
+git clone https://github.com/yourusername/bite-and brew-cafe-app/erureka-server.git
 cd erureka-server
 ````
 
